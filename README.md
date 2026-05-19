@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=200&section=header&text=fitiarivony&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20JS%20%E2%80%A2%20TS%20%E2%80%A2%20Java&descAlignY=58&descColor=d0f0e8" width="100%"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+fitiarivony;Fullstack+Developer;JS+%7C+TS+%7C+Java;Based+in+Madagascar+%F0%9F%87%B2%F0%9F%87%AC" alt="Typing SVG" />
 <p>
   <img src="https://img.shields.io/badge/Madagascar%20%F0%9F%87%B2%F0%9F%87%AC-Antananarivo-1D9E75?style=flat-square&labelColor=0a0a0a"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-534AB7?style=flat-square&labelColor=0a0a0a"/>
