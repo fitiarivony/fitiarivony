@@ -60,7 +60,7 @@ Basé à **Madagascar**, je travaille sur des projets académiques et personnels
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [**ressource-humaine**](https://github.com/fitiarivony/ressource_humaine) | Application de gestion des ressources humaines | Java / Spring Boot |
-| [**to-do-list-backend**](https://github.com/fitiarivony/to-do-list-backend.git) | Une solution backend robuste, scalable et hautement sécurisée pour la gestion de tâches. Ce projet démontre une architecture logicielle moderne, une gestion rigoureuse de la sécurité et une documentation complète. | Express.js
+| [**to-do-list-backend**](https://github.com/fitiarivony/to-do-list-backend) | Une solution backend robuste, scalable et hautement sécurisée pour la gestion de tâches. Ce projet démontre une architecture logicielle moderne, une gestion rigoureuse de la sécurité et une documentation complète. | Express.js
 | [**DocAnalyzer**](https://github.com/fitiarivony/avions) |Analyseur de documents intelligent — upload un PDF ou texte, choisis ton modèle IA (Gemini ou Groq ), et obtiens un résumé, une extraction de clauses clés, des questions/réponses et un score de risque. Projet standalone full-stack déployé. | Next.js, Groq, Gemini
 | [**cashandcarry**](https://github.com/fitiarivony/cashandcarry) | Plateforme e-commerce cash & carry | Laravel |
 
