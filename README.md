@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+fitiarivony;Fullstack+Developer;JS+%7C+TS+%7C+Java;Based+in+Madagascar+%F0%9F%87%B2%F0%9F%87%AC" alt="Typing SVG" />
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:534AB7,100:1D9E75&height=160&section=header&text=fitiarivony&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Dev%20%7C%20JS%20%C2%B7%20TS%20%C2%B7%20Java%20%C2%B7%20Python%20%7C%20Madagascar%20%F0%9F%87%B2%F0%9F%87%AC&descSize=16&descAlignY=62&descColor=9FE1CB)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=1D9E75&center=true&vCenter=true&width=500&height=40&lines=Open+to+remote+opportunities+%F0%9F%8C%8D;Always+building+something+%F0%9F%9A%80;Let's+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
 <p>
   <img src="https://img.shields.io/badge/Madagascar%20%F0%9F%87%B2%F0%9F%87%AC-Antananarivo-1D9E75?style=flat-square&labelColor=0a0a0a"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-534AB7?style=flat-square&labelColor=0a0a0a"/>
@@ -31,16 +35,21 @@ Basé à **Madagascar**, je travaille sur des projets académiques et personnels
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Base de données & Outils
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -51,9 +60,9 @@ Basé à **Madagascar**, je travaille sur des projets académiques et personnels
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [**ressource-humaine**](https://github.com/fitiarivony/ressource_humaine) | Application de gestion des ressources humaines | Java / Spring Boot |
-| [**to-do-list-backend**](https://github.com/fitiarivony/to-do-list-backend.git) | Une solution backend robuste, scalable et hautement sécurisée pour la gestion de tâches. Ce projet démontre une architecture logicielle moderne, une gestion rigoureuse de la sécurité et une documentation complète.
-| [**DocAnalyzer**](https://github.com/fitiarivony/avions) |Analyseur de documents intelligent — upload un PDF ou texte, choisis ton modèle IA (Gemini ou Groq ), et obtiens un résumé, une extraction de clauses clés, des questions/réponses et un score de risque. Projet standalone full-stack déployé. |
-| [**cashandcarry**](https://github.com/fitiarivony/cashandcarry) | Plateforme e-commerce cash & carry | En cours |
+| [**to-do-list-backend**](https://github.com/fitiarivony/to-do-list-backend.git) | Une solution backend robuste, scalable et hautement sécurisée pour la gestion de tâches. Ce projet démontre une architecture logicielle moderne, une gestion rigoureuse de la sécurité et une documentation complète. | Express.js
+| [**DocAnalyzer**](https://github.com/fitiarivony/avions) |Analyseur de documents intelligent — upload un PDF ou texte, choisis ton modèle IA (Gemini ou Groq ), et obtiens un résumé, une extraction de clauses clés, des questions/réponses et un score de risque. Projet standalone full-stack déployé. | Next.js, Groq, Gemini
+| [**cashandcarry**](https://github.com/fitiarivony/cashandcarry) | Plateforme e-commerce cash & carry | Laravel |
 
 ---
 
@@ -78,7 +87,7 @@ Basé à **Madagascar**, je travaille sur des projets académiques et personnels
 
 - Approfondir **Spring Boot** et les architectures microservices
 - Explorer **Next.js** et le rendu côté serveur
-- Approfondir mes connaissances sur l'intégration des  **Agent IA** dans des applications existantes
+- Approfondir mes connaissances sur l'intégration des  **Agents IA** dans des applications existantes
 - Contribuer à des projets open source malgaches
 
 ---
